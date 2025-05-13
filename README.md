@@ -1,3 +1,2 @@
 # .github
-
-(factorypulse.app)[factorypulse.app]
+[factorypulse.app](https://factorypulse.app/)
